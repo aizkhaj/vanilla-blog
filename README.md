@@ -1,25 +1,11 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project is using Stephen Grider's ReduxSimpleStarter repo to bootstrap.
 
-### Getting Started
+## What is it
 
-There are two methods for getting started with this repo.
+It's a basic blog app that is running react and redux + redux forms and routing.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+## Get it running
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+`npm install` and then `npm start`.
